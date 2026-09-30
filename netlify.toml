@@ -1,0 +1,27 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/imagery/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
+
+[[headers]]
+  for = "/video-library.json"
+  [headers.values]
+    Cache-Control = "no-cache"
+
+# Thumbnail URLs carry a file version, so repeat visits can reuse their bytes.
+[[headers]]
+  for = "/videos/*.jpg"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"

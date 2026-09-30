@@ -1,0 +1,17 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+tests/.fixtures/
+*.mp4
+!public/videos/**/*.mp4
+.DS_Store
+.cache/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.netlify/
+reports/

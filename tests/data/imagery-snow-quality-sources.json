@@ -1,0 +1,106 @@
+{
+  "attribution": "EOxCloudless https://cloudless.eox.at by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2025)",
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "fixtures": [
+    {
+      "fixture": "snow-st-elias-57-146.webp",
+      "collection": "EOxCloudless 2025",
+      "mapTile": {
+        "z": 9,
+        "x": 57,
+        "y": 146
+      },
+      "sourceUrl": "https://tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2025_3857/default/g/9/146/57.jpg"
+    },
+    {
+      "fixture": "snow-st-elias-58-147.webp",
+      "collection": "EOxCloudless 2025",
+      "mapTile": {
+        "z": 9,
+        "x": 58,
+        "y": 147
+      },
+      "sourceUrl": "https://tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2025_3857/default/g/9/147/58.jpg"
+    },
+    {
+      "fixture": "snow-st-elias-58-148.webp",
+      "collection": "EOxCloudless 2025",
+      "mapTile": {
+        "z": 9,
+        "x": 58,
+        "y": 148
+      },
+      "sourceUrl": "https://tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2025_3857/default/g/9/148/58.jpg"
+    },
+    {
+      "fixture": "snow-bagley-55-147.webp",
+      "collection": "EOxCloudless 2025",
+      "mapTile": {
+        "z": 9,
+        "x": 55,
+        "y": 147
+      },
+      "sourceUrl": "https://tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2025_3857/default/g/9/147/55.jpg"
+    },
+    {
+      "fixture": "snow-st-elias-57-147.webp",
+      "collection": "EOxCloudless 2025",
+      "mapTile": {
+        "z": 9,
+        "x": 57,
+        "y": 147
+      },
+      "sourceUrl": "https://tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2025_3857/default/g/9/147/57.jpg"
+    },
+    {
+      "fixture": "snow-st-elias-56-147.webp",
+      "collection": "EOxCloudless 2025",
+      "mapTile": {
+        "z": 9,
+        "x": 56,
+        "y": 147
+      },
+      "sourceUrl": "https://tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2025_3857/default/g/9/147/56.jpg"
+    },
+    {
+      "fixture": "snow-clipped-vatnajokull.webp",
+      "collection": "EOxCloudless 2025",
+      "mapTile": {
+        "z": 9,
+        "x": 232,
+        "y": 135
+      },
+      "sourceUrl": "https://tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2025_3857/default/g/9/135/232.jpg"
+    },
+    {
+      "fixture": "snow-clipped-devon.webp",
+      "collection": "EOxCloudless 2025",
+      "mapTile": {
+        "z": 9,
+        "x": 136,
+        "y": 90
+      },
+      "sourceUrl": "https://tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2025_3857/default/g/9/90/136.jpg"
+    },
+    {
+      "fixture": "snow-artifacts-svalbard.webp",
+      "collection": "EOxCloudless 2025",
+      "mapTile": {
+        "z": 9,
+        "x": 280,
+        "y": 65
+      },
+      "sourceUrl": "https://tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2025_3857/default/g/9/65/280.jpg"
+    },
+    {
+      "fixture": "snow-artifacts-subtle-svalbard.webp",
+      "collection": "EOxCloudless 2025",
+      "mapTile": {
+        "z": 9,
+        "x": 280,
+        "y": 67
+      },
+      "sourceUrl": "https://tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2025_3857/default/g/9/67/280.jpg"
+    }
+  ]
+}

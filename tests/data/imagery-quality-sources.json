@@ -1,0 +1,20 @@
+{
+  "attribution": "EOxCloudless https://cloudless.eox.at by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2016 & 2017, 2025)",
+  "tile": {
+    "z": 9,
+    "x": 0,
+    "y": 127
+  },
+  "fixtures": [
+    {
+      "file": "imagery-missing-coverage.webp",
+      "collection": "s2cloudless_3857",
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "file": "imagery-2025-coverage.png",
+      "collection": "s2cloudless-2025_3857",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    }
+  ]
+}

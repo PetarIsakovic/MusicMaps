@@ -1,0 +1,400 @@
+{
+  "reference": "Pinned Earth Search STAC transforms, independently evaluated with pyproj 3.8 / PROJ (always_xy=True). Pixel coordinates are image edges in the unrotated local crop.",
+  "fixtures": [
+    {
+      "index": 11,
+      "region": "Patagonian coast",
+      "itemId": "S2A_20GLT_20240907_0_L2A",
+      "thumbnailDimensions": [
+        343,
+        343
+      ],
+      "cropPixels": [
+        0,
+        0,
+        340,
+        340
+      ],
+      "metadata": {
+        "id": "S2A_20GLT_20240907_0_L2A",
+        "properties": {
+          "proj:epsg": 32720
+        },
+        "assets": {
+          "visual": {
+            "proj:shape": [
+              10980,
+              10980
+            ],
+            "proj:transform": [
+              10,
+              0,
+              300000,
+              0,
+              -10,
+              5300020
+            ]
+          }
+        }
+      },
+      "points": [
+        {
+          "pixel": [
+            0,
+            0
+          ],
+          "lonLat": [
+            -65.43117539379796,
+            -42.42636181467942
+          ]
+        },
+        {
+          "pixel": [
+            170.0,
+            170.0
+          ],
+          "lonLat": [
+            -64.78398333583135,
+            -42.92832937209454
+          ]
+        },
+        {
+          "pixel": [
+            214.2,
+            91.80000000000001
+          ],
+          "lonLat": [
+            -64.60482637024027,
+            -42.70555607342496
+          ]
+        },
+        {
+          "pixel": [
+            340,
+            340
+          ],
+          "lonLat": [
+            -64.1262383578772,
+            -43.42672548884093
+          ]
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "region": "Siberia \u00b7 39WXQ",
+      "itemId": "S2B_39WXQ_20240618_0_L2A",
+      "thumbnailDimensions": [
+        343,
+        343
+      ],
+      "cropPixels": [
+        0,
+        0,
+        340,
+        340
+      ],
+      "metadata": {
+        "id": "S2B_39WXQ_20240618_0_L2A",
+        "properties": {
+          "proj:epsg": 32639
+        },
+        "assets": {
+          "visual": {
+            "proj:shape": [
+              10980,
+              10980
+            ],
+            "proj:transform": [
+              10,
+              0,
+              600000,
+              0,
+              -10,
+              7500000
+            ]
+          }
+        }
+      },
+      "points": [
+        {
+          "pixel": [
+            0,
+            0
+          ],
+          "lonLat": [
+            53.35185349023477,
+            67.59850386443479
+          ]
+        },
+        {
+          "pixel": [
+            170.0,
+            170.0
+          ],
+          "lonLat": [
+            54.5559509618505,
+            67.08776998990314
+          ]
+        },
+        {
+          "pixel": [
+            214.2,
+            91.80000000000001
+          ],
+          "lonLat": [
+            54.91716658858577,
+            67.30422118770437
+          ]
+        },
+        {
+          "pixel": [
+            340,
+            340
+          ],
+          "lonLat": [
+            55.70998269479069,
+            66.56849590105863
+          ]
+        }
+      ]
+    },
+    {
+      "index": 897,
+      "region": "Central North America \u00b7 16TFM",
+      "itemId": "S2A_16TFM_20240610_0_L2A",
+      "thumbnailDimensions": [
+        343,
+        343
+      ],
+      "cropPixels": [
+        1,
+        0,
+        341,
+        340
+      ],
+      "metadata": {
+        "id": "S2A_16TFM_20240610_0_L2A",
+        "properties": {
+          "proj:epsg": 32616
+        },
+        "assets": {
+          "visual": {
+            "proj:shape": [
+              10980,
+              10980
+            ],
+            "proj:transform": [
+              10,
+              0,
+              600000,
+              0,
+              -10,
+              4700040
+            ]
+          }
+        }
+      },
+      "points": [
+        {
+          "pixel": [
+            0,
+            0
+          ],
+          "lonLat": [
+            -85.78011122468257,
+            42.44619950526818
+          ]
+        },
+        {
+          "pixel": [
+            170.0,
+            170.0
+          ],
+          "lonLat": [
+            -85.13313058235435,
+            41.947387416321675
+          ]
+        },
+        {
+          "pixel": [
+            214.2,
+            91.80000000000001
+          ],
+          "lonLat": [
+            -84.95530908680406,
+            42.16980502477509
+          ]
+        },
+        {
+          "pixel": [
+            340,
+            340
+          ],
+          "lonLat": [
+            -84.49618713207846,
+            41.44514546121533
+          ]
+        }
+      ]
+    },
+    {
+      "index": 5008,
+      "region": "Western Sahara and Atlantic Africa \u00b7 30QUK",
+      "itemId": "S2B_30QUK_20240623_0_L2A",
+      "thumbnailDimensions": [
+        343,
+        343
+      ],
+      "cropPixels": [
+        0,
+        0,
+        340,
+        340
+      ],
+      "metadata": {
+        "id": "S2B_30QUK_20240623_0_L2A",
+        "properties": {
+          "proj:epsg": 32630
+        },
+        "assets": {
+          "visual": {
+            "proj:shape": [
+              10980,
+              10980
+            ],
+            "proj:transform": [
+              10,
+              0,
+              300000,
+              0,
+              -10,
+              2500020
+            ]
+          }
+        }
+      },
+      "points": [
+        {
+          "pixel": [
+            0,
+            0
+          ],
+          "lonLat": [
+            -4.945552758265893,
+            22.59524816855134
+          ]
+        },
+        {
+          "pixel": [
+            170.0,
+            170.0
+          ],
+          "lonLat": [
+            -4.411356911631182,
+            22.109301948197047
+          ]
+        },
+        {
+          "pixel": [
+            214.2,
+            91.80000000000001
+          ],
+          "lonLat": [
+            -4.276256956746862,
+            22.336530363813356
+          ]
+        },
+        {
+          "pixel": [
+            340,
+            340
+          ],
+          "lonLat": [
+            -3.8808140204711785,
+            21.62139943007457
+          ]
+        }
+      ]
+    },
+    {
+      "index": 4868,
+      "region": "Eastern Europe \u00b7 33SXV",
+      "itemId": "S2A_33SXV_20240607_0_L2A",
+      "thumbnailDimensions": [
+        343,
+        343
+      ],
+      "cropPixels": [
+        102,
+        0,
+        343,
+        241
+      ],
+      "metadata": {
+        "id": "S2A_33SXV_20240607_0_L2A",
+        "properties": {
+          "proj:epsg": 32633
+        },
+        "assets": {
+          "visual": {
+            "proj:shape": [
+              10980,
+              10980
+            ],
+            "proj:transform": [
+              10,
+              0,
+              600000,
+              0,
+              -10,
+              4000020
+            ]
+          }
+        }
+      },
+      "points": [
+        {
+          "pixel": [
+            0,
+            0
+          ],
+          "lonLat": [
+            16.474305174391976,
+            36.13582361186063
+          ]
+        },
+        {
+          "pixel": [
+            120.5,
+            120.5
+          ],
+          "lonLat": [
+            16.89451021930718,
+            35.782188313540345
+          ]
+        },
+        {
+          "pixel": [
+            151.83,
+            65.07000000000001
+          ],
+          "lonLat": [
+            17.00945143951284,
+            35.940274011995044
+          ]
+        },
+        {
+          "pixel": [
+            241,
+            241
+          ],
+          "lonLat": [
+            17.31100510487875,
+            35.42718994093933
+          ]
+        }
+      ]
+    }
+  ]
+}
